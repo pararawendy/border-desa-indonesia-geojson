@@ -38,6 +38,8 @@ df_village_border = pd.DataFrame({
 })
 ```
 
+## Contoh data (5 baris pertama)
+
 ```
 | province   | district     | sub_district   | village        | border   
 
